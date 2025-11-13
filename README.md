@@ -1,6 +1,7 @@
 # EXP-3
 ## EXPT NO: 3 STAIR CASE WIRING                     
-
+### NAME : Deepshika hemanth kumar
+### REG NO : 212224220020
  
 ### AIM
  To control the status of the given lamp by using two–way switches. 
@@ -42,15 +43,19 @@ switch2.
 <img width="500" height="300" src="https://github.com/user-attachments/assets/a2ee1986-3ace-4af3-a657-71a052f6fa0d" />
 <br>
 ### Direct connection:
+![exp33](https://github.com/user-attachments/assets/aa2f2b7c-eee5-4486-94ac-8d2be577effe)
+
 <br>
 CIRCUIT DIAGRAM:
 <br><br>
-<img width="500" height="300" src="https://github.com/user-attachments/assets/f78edc1f-3918-4073-8740-941ff80e8ca2" />
+![exp31](https://github.com/user-attachments/assets/fde3d48c-0228-4e43-92c2-4127f881441e)
+
 <br><br>
 
 Tabulation:1
 <br><br>
-<img width="500" height="300" src="https://github.com/user-attachments/assets/6ed64045-ae65-4c0e-8f72-cf871b44ca70" />
+![exp32](https://github.com/user-attachments/assets/7f5f7af7-3f72-43f7-9360-450860b36f22)
+
 <br><br>
 
 <img width="500" height="320" alt="Screenshot 2025-09-23 083631" src="https://github.com/user-attachments/assets/6a3eed9d-a48a-45c4-a37d-ea95f5015db7" />
@@ -61,23 +66,22 @@ Tabulation:1
 <br>
 CIRCUIT DIAGRAM:
 <br><br>
-![exp31](https://github.com/user-attachments/assets/986ed7e9-a171-402e-b984-3a36aadd140c)
+![WhatsApp Image 2025-11-13 at 21 46 18_585f32e5](https://github.com/user-attachments/assets/9b6b9345-d682-4719-bcb6-080d50365ffe)
 
-tabulation 1:
 <br><br>
-![exp32](https://github.com/user-attachments/assets/ad111951-d84a-4f99-9a6e-b932f777573c)
 
 
 
 Tabulation:2
 <br><br>
+![WhatsApp Image 2025-11-13 at 21 46 19_c240d9a5](https://github.com/user-attachments/assets/5dbf844d-a0bf-4e1c-bd16-a710c70cc5f3)
 
 <br><br>
-![exp33](https://github.com/user-attachments/assets/2b011b84-4280-4ec8-b645-8359815be166)
 
 
 
 
+<img width="500" height="300" alt="Screenshot 2025-09-23 084001" src="https://github.com/user-attachments/assets/8ebe80e9-65db-45c6-b8a9-8457fb909d95" />
 <br>
 
 ### RESULT:
