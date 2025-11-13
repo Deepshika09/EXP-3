@@ -48,7 +48,8 @@ switch2.
 <br>
 CIRCUIT DIAGRAM:
 <br><br>
-![exp31](https://github.com/user-attachments/assets/e6dde3fa-3236-4835-a368-cffcad03d6a6)
+
+![exp31](https://github.com/user-attachments/assets/c8f1332f-6035-4d57-b1c9-3333cc55b117)
 
 <br><br>
 
@@ -66,7 +67,8 @@ Tabulation:1
 <br>
 CIRCUIT DIAGRAM:
 <br><br>
-![WhatsApp Image 2025-11-13 at 21 46 18_83e13baa](https://github.com/user-attachments/assets/d59e8cef-400f-4195-a620-e9ac557a2ae0)
+
+![exp36](https://github.com/user-attachments/assets/31c0c17f-c0ec-403b-a4d4-642d3968557d)
 
 <br><br>
 
