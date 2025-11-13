@@ -61,22 +61,23 @@ Tabulation:1
 <br>
 CIRCUIT DIAGRAM:
 <br><br>
+![exp31](https://github.com/user-attachments/assets/986ed7e9-a171-402e-b984-3a36aadd140c)
 
-<img width="500" height="300" src="https://github.com/user-attachments/assets/790f1ffa-a955-4afc-a7ce-ddf3e64cc33f" />
+tabulation 1:
 <br><br>
+![exp32](https://github.com/user-attachments/assets/ad111951-d84a-4f99-9a6e-b932f777573c)
 
 
 
 Tabulation:2
 <br><br>
 
-<img width="500" height="300" src="https://github.com/user-attachments/assets/658bb680-2327-41c4-89f9-cd27b992e2de" />
 <br><br>
+![exp33](https://github.com/user-attachments/assets/2b011b84-4280-4ec8-b645-8359815be166)
 
 
 
 
-<img width="500" height="300" alt="Screenshot 2025-09-23 084001" src="https://github.com/user-attachments/assets/8ebe80e9-65db-45c6-b8a9-8457fb909d95" />
 <br>
 
 ### RESULT:
