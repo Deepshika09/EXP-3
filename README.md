@@ -40,15 +40,15 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 <br><br>
-<img width="500" height="300" src="https://github.com/user-attachments/assets/a2ee1986-3ace-4af3-a657-71a052f6fa0d" />
 <br>
 ### Direct connection:
-![exp33](https://github.com/user-attachments/assets/aa2f2b7c-eee5-4486-94ac-8d2be577effe)
+
+![exp33](https://github.com/user-attachments/assets/1e577113-869e-45c9-948a-0daf95f3479e)
 
 <br>
 CIRCUIT DIAGRAM:
 <br><br>
-![exp31](https://github.com/user-attachments/assets/fde3d48c-0228-4e43-92c2-4127f881441e)
+![exp31](https://github.com/user-attachments/assets/e6dde3fa-3236-4835-a368-cffcad03d6a6)
 
 <br><br>
 
@@ -66,7 +66,7 @@ Tabulation:1
 <br>
 CIRCUIT DIAGRAM:
 <br><br>
-![WhatsApp Image 2025-11-13 at 21 46 18_585f32e5](https://github.com/user-attachments/assets/9b6b9345-d682-4719-bcb6-080d50365ffe)
+![WhatsApp Image 2025-11-13 at 21 46 18_83e13baa](https://github.com/user-attachments/assets/d59e8cef-400f-4195-a620-e9ac557a2ae0)
 
 <br><br>
 
